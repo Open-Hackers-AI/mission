@@ -1,8 +1,14 @@
 # Open Hackers AI - Our Mission
 
+
+
+# Bottum Line
+
+If you are transitioning to build in AI, this community is for you
+
 ## About Open Hackers AI
 
-Open Hackers AI is a community-driven collective created to bring together talented individuals who want to contribute to and create open-source projects in AI. We believe in democratizing AI technology through collaborative development, knowledge sharing, and building tools that benefit everyone.
+Open Hackers AI is a community-driven collective created to bring together talented individuals who want to contribute to and create open-source projects in AI. We want to build an environment for collaborative development, knowledge sharing, and building tools that benefit everyone.
 
 ## Our Core Mission
 
